@@ -6,4 +6,5 @@ This tutorial focuses mainly for Git and using gitHub as its remote.
 This repository is built step by step in the tutorial.
 Novi red.
 
+Novi kod na novu granu sa lokala na web.
 It now includes steps for GitHub
