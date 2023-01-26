@@ -7,4 +7,5 @@ This repository is built step by step in the tutorial.
 Novi red.
 
 Novi kod na novu granu sa lokala na web.
+Novi kod sa grane lokala na remote granu koja postoji.
 It now includes steps for GitHub
